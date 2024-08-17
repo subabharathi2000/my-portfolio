@@ -10,7 +10,7 @@ function Projects() {
         <section id="project" className="bg-secondary text-white flex flex-col  pb-14">
             <div className="flex flex-col">
                 <h1 className="w-[125px] ml-8 md:ml-28 mt-10 border-b-4 border-white-900 md:text-left font-bold text-3xl md:pt-14">Projects</h1>
-                <p className=" ml-8 md:ml-28 md:p-0 mt-3 ">These are some of my best projects. I have built these with React, HTML, JavaScripy, Tailwind CSS and CSS. Check them out.</p>
+                <p className=" ml-8 md:ml-28 md:p-0 mt-3 ">These are some of my best projects. I have built these with React, HTML, JavaScript, Tailwind CSS and CSS. Check them out.</p>
             </div>
             <div className="p-0">
                 <div className=" pl-12 md:pl-28 pt-10 flex flex-wrap gap-10 md:gap-20 w-full">
